@@ -111,6 +111,9 @@ h1 {
     z-index: -1;
 }
 
+video{
+    -webkit-filter: brightness(101%);
+}
 video::-webkit-media-controls {
     display: none;
 }
