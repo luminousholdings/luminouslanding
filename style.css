@@ -51,15 +51,15 @@ p {
 
 h1 {
     font-family: 'Georama', sans-serif;
-    font-size: 40px;
+    font-size: 44px;
     font-style: normal;
     font-weight: 300;
     color: #4151D8;
 }
 
 .main {
-    margin-top: 75px;
-    max-width: 900px;
+    margin-top: 65px;
+    max-width: 960px;
 }
 
 .btn-contact {
@@ -133,7 +133,7 @@ video::-webkit-media-controls {
     .logo {
         width: 325px;
         height: 91px;
-        margin-top: 13%;
+        margin-top: 10%;
     }
 
     .btn-contact {
