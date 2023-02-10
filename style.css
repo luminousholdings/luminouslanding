@@ -40,8 +40,8 @@ body {
 }
 
 p {
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 22px;
+    line-height: 30px;
     margin-bottom: 20px;
 }
 
@@ -51,26 +51,26 @@ p {
 
 h1 {
     font-family: 'Georama', sans-serif;
-    font-size: 40px;
+    font-size: 44px;
     font-style: normal;
     font-weight: 300;
     color: #4151D8;
 }
 
 .main {
-    margin-top: 75px;
-    max-width: 900px;
+    margin-top: 65px;
+    max-width: 960px;
 }
 
 .btn-contact {
     display: inline-block;
-	background: none;
-	color: #4151D8;
+    background: none;
+    color: #4151D8;
     text-align: center;
-	border: 1px solid #4151D8;
+    border: 1px solid #4151D8;
     border-radius: 50px;
     padding: 15px 30px;
-	font-size: 26px;
+    font-size: 26px;
     margin-top: 35px;
     text-decoration: none;
     -webkit-transition: background 0.25s;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .btn-contact:hover {
-	background: #4151D8;
+    background: #4151D8;
     color: #ffffff;
 }
 
@@ -111,9 +111,10 @@ h1 {
     z-index: -1;
 }
 
-video{
+video {
     -webkit-filter: brightness(101%);
 }
+
 video::-webkit-media-controls {
     display: none;
 }
@@ -122,30 +123,35 @@ video::-webkit-media-controls {
     h1 {
         font-size: 54px;
     }
+
     p {
-        font-size: 28px;
-        line-height: 36px;
+        font-size: 22px;
+        line-height: 30px;
         margin-bottom: 25px;
     }
+
     .logo {
         width: 325px;
         height: 91px;
-        margin-top: 13%;
+        margin-top: 10%;
     }
+
     .btn-contact {
         padding: 20px 35px;
     }
 }
 
 @media (max-width: 992px) {
-    .container{
+    .container {
         padding: 50px 60px 20px;
         margin: 0 auto;
     }
+
     p {
-        font-size: 26px;
+        font-size: 18px;
         margin-bottom: 20px;
     }
+
     .btn-contact {
         padding: 15px 30px;
     }
@@ -155,30 +161,37 @@ video::-webkit-media-controls {
     .container {
         padding: 40px 45px;
     }
+
     h1 {
         font-size: 30px;
         margin-top: 95px;
         max-width: 130px;
     }
+
     p {
         font-size: 14px;
         line-height: 20px;
         margin-bottom: 20px;
     }
+
     .main {
         margin-top: 30px;
     }
+
     .btn-contact {
         padding: 12px 20px;
         font-size: 15px;
         margin-top: 20px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         display: block;
     }
+
     .bg-video {
         width: 150vw;
     }
@@ -188,28 +201,34 @@ video::-webkit-media-controls {
     .container {
         padding: 55px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         width: 190px;
         height: 53px;
         display: block;
     }
+
     .main {
         margin-top: 55px;
     }
+
     h1 {
         font-size: 38px;
         line-height: 42px;
         margin-top: 125px;
         max-width: 170px;
     }
+
     p {
         font-size: 16px;
         line-height: 22px;
         margin-bottom: 15px;
     }
+
     .btn-contact {
         margin-top: 35px;
         font-size: 17px;
@@ -221,26 +240,32 @@ video::-webkit-media-controls {
     .container {
         padding: 85px 65px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         width: 300px;
         height: 84px;
         display: block;
     }
+
     .main {
         margin-top: 82px;
     }
+
     h1 {
         font-size: 54px;
         margin-top: 180px;
     }
+
     p {
-        font-size: 28px;
-        line-height: 36px;
+        font-size: 18px;
+        line-height: 30px;
         margin-bottom: 20px;
     }
+
     .btn-contact {
         padding: 20px 35px;
         margin-top: 55px;
@@ -251,26 +276,32 @@ video::-webkit-media-controls {
     .container {
         padding: 85px 65px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         width: 300px;
         height: 84px;
         display: block;
     }
+
     .main {
         margin-top: 82px;
     }
+
     h1 {
         font-size: 54px;
         margin-top: 105px;
     }
+
     p {
-        font-size: 28px;
-        line-height: 36px;
+        font-size: 22px;
+        line-height: 30px;
         margin-bottom: 20px;
     }
+
     .btn-contact {
         padding: 20px 35px;
         margin-top: 55px;
@@ -281,25 +312,30 @@ video::-webkit-media-controls {
     .container {
         padding: 47px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         display: block;
         width: 175px;
         height: 49px;
     }
+
     h1 {
         font-size: 32px;
         line-height: 36px;
         margin-top: 100px;
         max-width: 150px;
     }
+
     p {
-        font-size: 28px;
-        line-height: 36px;
+        font-size: 18px;
+        line-height: 30px;
         margin-bottom: 15px;
     }
+
     .btn-contact {
         font-size: 17px;
         padding: 13px 22px;
@@ -311,28 +347,34 @@ video::-webkit-media-controls {
     .container {
         padding: 50px;
     }
+
     .logo {
         display: none;
     }
+
     .logo-mobile {
         display: block;
         width: 185px;
         height: 52px;
     }
+
     .main {
         margin-top: 55px;
     }
+
     h1 {
         font-size: 36px;
         line-height: 40px;
         margin-top: 125px;
         max-width: 175px;
     }
+
     p {
         font-size: 15px;
         line-height: 20px;
         margin-bottom: 20px;
     }
+
     .btn-contact {
         font-size: 18px;
         padding: 13px 22px;
